@@ -1,0 +1,20 @@
+title: Cadastro de Empresas (contabilidade)
+authors:
+  - family-names: Oliveira 
+    given-names: Nicolas 
+  - family-names: Reis 
+    given-names: José
+  - family-names: Hidalgo 
+    given-names: Luis Guilherme
+  - family-names: Galdino
+    given-names: Matheus
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Pontes 
+    given-names: Diego
+keywords:
+  - Finanças
+  - Empresa
+repository-code: 
+version: 1.0.0
+date-released: 2026-05-12
